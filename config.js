@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "trend-x~v9QTUQpK#qCnUTyPIBrigD-2HK5-qdypu8-xdBJ4YPTr8Nkpuq-o",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -38,9 +38,9 @@ PREFIX: process.env.PREFIX || ".",
     // Timezone for the auto-bio feature
     TIME_ZONE: process.env.TIME_ZONE || "Asia/Kolkata",  // Change to your preferred timezone
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "TREND-X",
+BOT_NAME: process.env.BOT_NAME || "᥊ꫀꪀꪮꪑꪮ𝘳ρꫝ🤍🍃",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "TREND-X",
+STICKER_NAME: process.env.STICKER_NAME || "᥊ꫀꪀꪮꪑꪮ𝘳ρꫝ🍃🤍",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -48,9 +48,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254734939236",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "919539182148",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "TRENDEX",
+OWNER_NAME: process.env.OWNER_NAME || "᥊ꫀꪀꪮꪑꪮ𝘳ρꫝ🍃🤍",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© POWERED TRENDEX KING*",
 // add bot owner name    
